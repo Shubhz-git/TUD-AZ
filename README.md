@@ -1,2 +1,2 @@
 # TUD-AZ
-Microsoft Graph API demo
+Microsoft Graph API - Azure copilot demo
